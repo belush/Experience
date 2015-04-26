@@ -1,0 +1,58 @@
+﻿@model IEnumerable<DAL.Entity.Task>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Задачи</h2>
+
+
+<p>
+    @Html.ActionLink("Выполненные задачи", "Work")
+</p>
+<p>
+    @Html.ActionLink("Добавить задачу", "Create")
+</p>
+<h4>Всего задач: @ViewBag.NumberOfTasks</h4>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AddDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Customer.UserName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AddDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.UserName)
+            </td>
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.TaskId }) |
+                @Html.ActionLink("Просмотр", "Details", new { id = item.TaskId }) |
+                @Html.ActionLink("Удалить", "Delete", new { id = item.TaskId })
+            </td>
+        </tr>
+    }
+
+</table>
+
