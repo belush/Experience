@@ -75,7 +75,9 @@ namespace Experience.Filters
 
                                 Surname = "admin",
                                 PhoneNumber = "11111",
-                                Email = "admin"
+                                Email = "admin",
+                                isReady=false
+                                
                                 //Type = new Type()
                             });
                         roles.AddUsersToRoles(new[] { "admin1" }, new[] { "Admin" });

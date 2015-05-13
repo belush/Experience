@@ -24,6 +24,9 @@ namespace DAL.Entity
 
         [Display(Name = "E-mail")]
         public string Email { get; set; }
+
+        [Display(Name = "Готов ли трудиться?")]
+        public bool isReady { get; set; }
         //public string Type { get; set; }
     }
 }

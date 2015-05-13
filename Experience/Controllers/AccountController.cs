@@ -116,7 +116,8 @@ namespace Experience.Controllers
                         {
                             PhoneNumber = model.PhoneNumber,
                             Surname = model.Surname,
-                            Email = model.Email
+                            Email = model.Email,
+                            isReady = model.isReady
                         });
                     Roles.AddUserToRole(model.UserName, "Perfomer");
                     WebSecurity.Login(model.UserName, model.Password);
@@ -132,7 +133,7 @@ namespace Experience.Controllers
             return View(model);
         }
 
-        
+
 
         //
         // POST: /Account/Disassociate

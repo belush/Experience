@@ -89,6 +89,15 @@ namespace Experience.DAL
             return customers;
         }
 
+        public List<User> GetPerformers()
+        {
+            List<User> users = GetUsers();
+            List<User> performers = new List<User>();
+            performers = users.Where(x => x.isReady == true).ToList();            
+
+            return performers;
+        }
+
         public int GetNumberOfUsers()
         {
             int number = db.Users.Count();

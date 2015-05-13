@@ -103,6 +103,8 @@ namespace Experience.Models
         [Display(Name = "Email")]
         public string Email { get; set; }
 
+        [Display(Name = "Готов ли трудиться?")]
+        public bool isReady { get; set; }
         //[Required]
         //[Display(Name = "Type")]
         //public UserType Type { get; set; }

@@ -25,5 +25,11 @@ namespace Experience.Controllers
             return View(logic.GetCustomers());
         }
 
+        public ActionResult Perfomer()
+        {
+            ViewBag.NumberOfUsers = logic.GetNumberOfPerformers();
+            return View(logic.GetPerformers());
+        }
+
     }
 }

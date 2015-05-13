@@ -34,10 +34,21 @@ namespace Business.Logic
             return r.GetCustomers();
         }
 
+        public List<User> GetPerformers()
+        {
+            return r.GetPerformers();
+        }
+
 
         public int GetNumberOfCustomers()
         {
             int number = r.GetCustomers().Count;
+            return number;
+        }
+
+        public int GetNumberOfPerformers()
+        {
+            int number = r.GetPerformers().Count;
             return number;
         }
     }

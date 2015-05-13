@@ -4,8 +4,15 @@
     padding: 0;
 }
 
+.content-wrapper img {
+        margin: -15px 0 0 -450px;
+        height:60px;
+        width:60px;
+}
+
+
 body {
-    background-color: #fff;
+    background-color: #0c1818;
     border-top: solid 10px #000;
     color: #333;
     font-size: .85em;
@@ -99,7 +106,7 @@ h5, h6 {
 }
 
 #body {
-    background-color: #efeeef;
+    background-color: #FFFFFF;
     clear: both;
     padding-bottom: 35px;
 }
@@ -120,7 +127,7 @@ header .content-wrapper {
 
 footer {
     clear: both;
-    background-color: #e2e2e2;
+    background-color: #44595a;
     font-size: .8em;
     height: 100px;
 }
@@ -195,12 +202,12 @@ ul#menu {
 
         ul#menu li a {
             background: none;
-            color: #999;
+            color: #d7b52c;
             text-decoration: none;
         }
 
         ul#menu li a:hover {
-            color: #333;
+            color: #d7b52c;
             text-decoration: none;
         }
 
