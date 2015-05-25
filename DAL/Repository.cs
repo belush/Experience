@@ -10,7 +10,6 @@ namespace Experience.DAL
     {
         ExperienceContext db = new ExperienceContext();
 
-
         /// <summary>
         /// TASK
         /// </summary>

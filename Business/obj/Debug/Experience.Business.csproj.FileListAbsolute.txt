@@ -8,3 +8,13 @@ c:\users\евгений\documents\visual studio 2013\Projects\Experience\Busines
 c:\users\евгений\documents\visual studio 2013\Projects\Experience\Business\obj\Debug\Experience.Business.csprojResolveAssemblyReference.cache
 c:\users\евгений\documents\visual studio 2013\Projects\Experience\Business\obj\Debug\Business.dll
 c:\users\евгений\documents\visual studio 2013\Projects\Experience\Business\obj\Debug\Business.pdb
+C:\Users\Alex\Source\Repos\Experience\Business\bin\Business.dll.config
+C:\Users\Alex\Source\Repos\Experience\Business\bin\Business.dll
+C:\Users\Alex\Source\Repos\Experience\Business\bin\Business.pdb
+C:\Users\Alex\Source\Repos\Experience\Business\bin\DAL.dll
+C:\Users\Alex\Source\Repos\Experience\Business\bin\EntityFramework.dll
+C:\Users\Alex\Source\Repos\Experience\Business\bin\DAL.pdb
+C:\Users\Alex\Source\Repos\Experience\Business\bin\EntityFramework.xml
+C:\Users\Alex\Source\Repos\Experience\Business\obj\Debug\Experience.Business.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\Experience\Business\obj\Debug\Business.dll
+C:\Users\Alex\Source\Repos\Experience\Business\obj\Debug\Business.pdb

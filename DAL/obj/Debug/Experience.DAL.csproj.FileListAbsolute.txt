@@ -8,3 +8,13 @@ c:\users\евгений\documents\visual studio 2013\Projects\Experience\DAL\bin
 c:\users\евгений\documents\visual studio 2013\Projects\Experience\DAL\obj\Debug\DAL.dll
 c:\users\евгений\documents\visual studio 2013\Projects\Experience\DAL\obj\Debug\DAL.pdb
 C:\Users\Евгений\Documents\Visual Studio 2013\Projects\Experience\DAL\obj\Debug\Experience.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\Experience\DAL\bin\DAL.dll.config
+C:\Users\Alex\Source\Repos\Experience\DAL\bin\DAL.dll
+C:\Users\Alex\Source\Repos\Experience\DAL\bin\DAL.pdb
+C:\Users\Alex\Source\Repos\Experience\DAL\bin\EntityFramework.dll
+C:\Users\Alex\Source\Repos\Experience\DAL\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Source\Repos\Experience\DAL\bin\EntityFramework.xml
+C:\Users\Alex\Source\Repos\Experience\DAL\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Source\Repos\Experience\DAL\obj\Debug\Experience.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\Experience\DAL\obj\Debug\DAL.dll
+C:\Users\Alex\Source\Repos\Experience\DAL\obj\Debug\DAL.pdb
