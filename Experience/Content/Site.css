@@ -54,6 +54,8 @@ mark {
 }
 
 .float-right {
+    color :orangered; 
+    font-size: 14px;
     float: right;
 }
 
@@ -154,12 +156,14 @@ footer {
 ----------------------------------------------------------*/
 #login {
     display: block;
-    font-size: .85em;
+    font-size: 14px;
     margin: 0 0 10px;
     text-align: right;
+    color:azure ;
 }
 
     #login a {
+        
         background-color: #d3dce0;
         margin-left: 10px;
         margin-right: 3px;
@@ -168,6 +172,7 @@ footer {
     }
 
     #login a.username {
+        color:azure ;
         background: none;
         margin: 0;
         padding: 0;
