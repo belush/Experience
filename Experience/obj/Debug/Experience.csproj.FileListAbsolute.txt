@@ -171,9 +171,3 @@ C:\Users\Alex\Source\Repos\Experience\Experience\bin\zh-Hant\System.Spatial.reso
 C:\Users\Alex\Source\Repos\Experience\Experience\obj\Debug\Experience.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Source\Repos\Experience\Experience\obj\Debug\Experience.dll
 C:\Users\Alex\Source\Repos\Experience\Experience\obj\Debug\Experience.pdb
-C:\Users\Alex\Source\Repos\Experience\Experience\bin\System.Net.Http.Formatting.dll
-C:\Users\Alex\Source\Repos\Experience\Experience\bin\System.Web.Http.dll
-C:\Users\Alex\Source\Repos\Experience\Experience\bin\System.Web.Http.WebHost.dll
-C:\Users\Alex\Source\Repos\Experience\Experience\bin\System.Net.Http.Formatting.xml
-C:\Users\Alex\Source\Repos\Experience\Experience\bin\System.Web.Http.xml
-C:\Users\Alex\Source\Repos\Experience\Experience\bin\System.Web.Http.WebHost.xml
