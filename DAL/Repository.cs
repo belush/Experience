@@ -12,6 +12,7 @@ namespace Experience.DAL
 
         /// <summary>
         /// TASK
+        /// 
         /// </summary>
         /// <returns></returns>
         /// добавить что то
